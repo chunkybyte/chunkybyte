@@ -1,7 +1,7 @@
 # Ekansh Kothiyal (UI/UX Developer)
 ### *or popularly known as chunkybyte by my mom and 2 good friends*
 
-I am currently working as a **Senior UI Developer at Anatta.io**🔠
+I am currently working as a **Senior UI Developer at Anatta.io** 🔠
 
 ## Tech Stack 
 
